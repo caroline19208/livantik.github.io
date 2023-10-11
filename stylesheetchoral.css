@@ -1,0 +1,13 @@
+navbar {
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        float: right;
+    }
+    
+
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
